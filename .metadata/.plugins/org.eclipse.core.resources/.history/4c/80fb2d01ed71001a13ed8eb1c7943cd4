@@ -1,0 +1,6 @@
+package com.aptara.inc.command;
+
+public class LoginCommand {
+	private String loginName;
+    private String password;
+}

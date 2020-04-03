@@ -1,0 +1,5 @@
+package com.aptara.inc.service;
+
+public class ContactService {
+
+}

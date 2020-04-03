@@ -1,0 +1,6 @@
+package com.aptara.inc.dao;
+
+ interface UserDao {
+	public void save(User u);
+
+}

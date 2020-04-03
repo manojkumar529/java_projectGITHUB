@@ -1,0 +1,5 @@
+package com.aptara.inc.mail;
+
+public interface MailService {
+
+}

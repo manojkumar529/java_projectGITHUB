@@ -1,0 +1,33 @@
+package com.aptara.inc.service;
+
+import java.util.List;
+
+import com.aptara.inc.domain.User;
+
+public class UserServiceImpl implements UserService {
+
+	@Override
+	public void register(User u) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public List<User> getUserList() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void changeLoginStatus(Integer userId, Integer loginStatus) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public Boolean isUsernameExist(String username) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

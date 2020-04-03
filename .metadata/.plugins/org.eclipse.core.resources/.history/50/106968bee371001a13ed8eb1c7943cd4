@@ -1,0 +1,51 @@
+package com.aptara.inc.dao;
+
+import java.util.List;
+
+import com.aptara.inc.domain.Contact;
+
+public class ContactDaoImpl implements ContactDAO {
+
+	@Override
+	public void save(Contact c) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void update(Contact c) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void delete(Contact c) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void delete(Integer contactId) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public Contact findById(Integer contactId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Contact> findAll() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Contact> findByProperty(String propName, Object propValue) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

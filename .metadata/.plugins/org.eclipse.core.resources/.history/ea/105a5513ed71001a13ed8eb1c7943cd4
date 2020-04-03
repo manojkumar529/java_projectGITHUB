@@ -1,0 +1,5 @@
+package com.aptara.inc.command;
+
+public class UserCommand {
+	User user;
+}

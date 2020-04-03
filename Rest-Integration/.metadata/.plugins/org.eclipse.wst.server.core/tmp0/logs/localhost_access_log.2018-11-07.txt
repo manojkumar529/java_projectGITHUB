@@ -1,0 +1,8 @@
+127.0.0.1 - - [07/Nov/2018:10:33:55 +0530] "GET / HTTP/1.1" 404 1036
+0:0:0:0:0:0:0:1 - - [07/Nov/2018:10:34:00 +0530] "GET /Resy-Integration-Exaple2/ HTTP/1.1" 404 1061
+0:0:0:0:0:0:0:1 - - [07/Nov/2018:10:34:01 +0530] "GET /favicon.ico HTTP/1.1" 404 1047
+0:0:0:0:0:0:0:1 - - [07/Nov/2018:10:34:01 +0530] "GET /favicon.ico HTTP/1.1" 404 1047
+0:0:0:0:0:0:0:1 - - [07/Nov/2018:10:35:59 +0530] "GET /Resy-Integration-Exaple2/ HTTP/1.1" 404 1061
+0:0:0:0:0:0:0:1 - - [07/Nov/2018:10:46:35 +0530] "GET /Resy-Integration-Exaple2/user/ HTTP/1.1" 404 1066
+0:0:0:0:0:0:0:1 - - [07/Nov/2018:10:46:46 +0530] "GET /Resy-Integration-Exaple2/users/ HTTP/1.1" 404 1067
+0:0:0:0:0:0:0:1 - - [07/Nov/2018:10:46:57 +0530] "GET /Resy-Integration-Exaple2/user/ HTTP/1.1" 404 1066

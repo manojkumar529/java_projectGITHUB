@@ -1,0 +1,5 @@
+package com.aptara.inc.rm;
+
+public class ContactRowMapper {
+
+}

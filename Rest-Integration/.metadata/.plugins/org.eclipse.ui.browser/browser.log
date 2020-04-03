@@ -1,0 +1,21 @@
+
+Nov 07, 2018 10:35:00.90 NEW SESSION
+Nov 07, 2018 10:35:00.90 1541567100907	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+
+Nov 12, 2018 10:17:42.53 NEW SESSION
+Nov 12, 2018 10:17:42.53 1541998062549	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+
+Dec 16, 2018 14:17:38.33 NEW SESSION
+Dec 16, 2018 14:17:38.33 1544950058334	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+
+Mar 09, 2019 22:59:47.55 NEW SESSION
+Mar 09, 2019 22:59:47.55 1552152587551	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+Mar 09, 2019 23:06:42.11 1552153002118	addons.repository	WARN	Search failed when repopulating cache
+Mar 09, 2019 23:07:02.30 1552153022300	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+Mar 09, 2019 23:07:02.30 1552153022307	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+Mar 09, 2019 23:07:06.31 1552153026316	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Mar 09, 2019 23:07:13.32 1552153033324	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Mar 09, 2019 23:18:35.19 [Parent 5240] WARNING: pipe error: 109: file c:/builds/moz2_slave/rel-m-beta-w32_bld-00000000000/build/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 333
+Mar 09, 2019 23:19:30.22 [Child 4788] WARNING: pipe error: 109: file c:/builds/moz2_slave/rel-m-beta-w32_bld-00000000000/build/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 333
+Mar 10, 2019 24:46:41.93 hashcompleter: cancelling request to https://safebrowsing.google.com/safebrowsing/gethash?client=navclient-auto-ffox&appver=44.0&pver=2.2
+Mar 10, 2019 24:46:41.93 hashcompleter: notifying failure

@@ -1,0 +1,11 @@
+package com.aptara.inc.dao;
+
+import com.aptara.inc.domain.User;
+
+interface UserDao {
+	public void save(User u);
+	public void update(User u);
+	public void delete(User u);
+	
+
+}

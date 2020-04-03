@@ -1,0 +1,7 @@
+package com.aptara.inc.service;
+
+public  interface UserService {
+	void save(User u);
+	List<User> list();
+
+}

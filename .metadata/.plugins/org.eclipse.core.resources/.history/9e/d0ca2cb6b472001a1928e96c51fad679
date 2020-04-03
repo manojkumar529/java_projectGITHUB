@@ -1,0 +1,5 @@
+package com.aptara.inc.model;
+
+public class User {
+
+}

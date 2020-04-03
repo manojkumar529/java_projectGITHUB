@@ -1,0 +1,25 @@
+package com.aptara.inc.config;
+
+import org.apache.catalina.core.ApplicationContext;
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.orm.hibernate5.LocalSessionFactoryBean;
+import org.springframework.transaction.annotation.EnableTransactionManagement;
+
+import com.aptara.inc.model.User;
+
+@Configuration
+@EnableTransactionManagement
+public class HibernateConfig {
+	
+	private ApplicationContext applicationContext;
+	@Bean
+	private LocalSessionFactoryBean getsessionFactory()
+	{
+		LocalSessionFactoryBean lsf=new LocalSessionFactoryBean();
+		lsf.setConfigLocation(applicationContext.getResource("classpath:hibernate.cfg.xml"));
+		lsf.setAnnotatedClasses(User.class);
+		return lsf;
+	}
+
+}

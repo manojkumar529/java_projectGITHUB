@@ -1,0 +1,5 @@
+package com.aptara.inc.config;
+
+public class SpringRootConfig {
+
+}

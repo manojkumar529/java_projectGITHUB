@@ -1,0 +1,9 @@
+package com.aptara.inc.config;
+
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+@Enat
+public class HibernateConfig {
+
+}

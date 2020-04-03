@@ -1,0 +1,13 @@
+package com.aptara.inc.controller;
+
+import org.springframework.stereotype.Controller;
+
+import com.aptara.inc.service.UserService;
+
+@Controller
+public class UserController {
+	@Autowired
+	private UserService userService;
+	
+
+}

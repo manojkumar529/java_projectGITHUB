@@ -1,0 +1,5 @@
+package com.aptara.ws.controller;
+
+public class UserController {
+
+}
